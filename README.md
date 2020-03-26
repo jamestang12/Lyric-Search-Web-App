@@ -9,7 +9,7 @@ This application can use to search song lyrics using React built in context API 
 * Musixmatch public API
   
   Provide the data and information of the tracks.
-*Bootstrap
+* Bootstrap
 
   Framwork is use to design the Web application provide a beeter user experience
   
