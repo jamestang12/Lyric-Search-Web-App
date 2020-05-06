@@ -1,6 +1,7 @@
 # Lyric Search Web Application
 
-This application can use to search song lyrics using React built in context API along with the Musixmatch public API.
+This application can use to search song lyrics using React built in context API along with the Musixmatch public API. 
+- [Link to demo](https://5eb261a73c1961616da2dfa5--lyricsearch12.netlify.app/)
 
 ## Tools
 * Javascript, React
